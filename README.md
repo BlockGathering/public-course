@@ -8,6 +8,6 @@ You are welcome to share what you do, and your course materials.
 
 - Singapore on May 2
 
-## Course Slides
+## Course Materials
 
-You can get [slides here](https://github.com/BlockGathering/public-course/tree/master/slides).
+You can get [all course materials](https://github.com/BlockGathering/public-course/tree/master/course-materials).
